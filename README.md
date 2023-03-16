@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **javotechno/javotechno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hola! Soy Javier Rivarola.
 
@@ -41,5 +41,5 @@ Hola! Soy Javier Rivarola.
 <a href="mailto:nacho.rivarola@hotmail.com"><img src="https://img.shields.io/badge/-nacho.rivarola@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
 </p>
-<!---  
+
 ## ⚙️ &nbsp;GitHub Analytics
