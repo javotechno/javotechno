@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-**javotechno/javotechno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hola! Soy Javier Rivarola.
 
 💡 &nbsp;Me gusta resolver problemas y crear nuevas cosas programando.\
