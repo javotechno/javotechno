@@ -40,4 +40,4 @@ Hola! Soy Javier Rivarola.
 <!---  <a href="poner mi sitio web"><img src="https://img.shields.io/badge/-OffLine.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>--->
 </p>
 
-## ⚙️ &nbsp;GitHub Analytics
+
