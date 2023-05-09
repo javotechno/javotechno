@@ -26,7 +26,7 @@ Hola! Soy Javier Rivarola.
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)&nbsp;
+
 
 
 
