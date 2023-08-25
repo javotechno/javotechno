@@ -2,11 +2,11 @@
 
 Hola! Soy Javier Rivarola.
 
-💡 &nbsp;Me gusta resolver problemas y crear nuevas cosas programando.\
-🌱 &nbsp;Objetivo: Frontend/QA.\
-✍️ &nbsp;Entusiasta de AI.\
-💬 &nbsp;Por lo general todos mis proyectos estan en Español.\
-✉️ &nbsp;Podés mandarme un mail a nacho.rivarola@hotmail.com!
+💡 &nbsp; I like to solve problems and create new things by programming.\
+🌱 &nbsp;Target: Frontend/QA.\
+✍️ &nbsp;AI enthusiast.\
+💬 &nbsp;Usually all my projects are in Spanish.\
+✉️ &nbsp;You can send me an email to nacho.rivarola@hotmail.com!
 
 
 
