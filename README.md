@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hola! Soy Javier Rivarola.
+Hi! My name is Javier Rivarola.
 
 💡 &nbsp; I like to solve problems and create new things by programming.\
 🌱 &nbsp;Target: Frontend/QA.\
